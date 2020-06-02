@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>dummy rest</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://dummy.restapiexample.com/api/v1/employee</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 16:33:54</sys_created_on>
+        <sys_id>4170475f2fcd10109177bab62799b68a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>dummy rest</sys_name>
+        <sys_package display_value="IPLookup" source="x_499906_iplookup">5b2e761f2fcd10109177bab62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">5b2e761f2fcd10109177bab62799b60b</sys_scope>
+        <sys_update_name>sys_rest_message_4170475f2fcd10109177bab62799b68a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 16:36:15</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPLookup">5b2e761f2fcd10109177bab62799b60b</application>
+        <file_path/>
+        <instance_id>a8dea181dbbcd3c452e3f70fbf96193f</instance_id>
+        <instance_name>dev52320</instance_name>
+        <name>sys_rest_message_4170475f2fcd10109177bab62799b68a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description/><name>dummy rest</name><oauth2_profile/><protocol_name/><rest_endpoint>https://dummy.restapiexample.com/api/v1/employee</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-02 16:33:54</sys_created_on><sys_id>4170475f2fcd10109177bab62799b68a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>dummy rest</sys_name><sys_package display_value="IPLookup" source="x_499906_iplookup">5b2e761f2fcd10109177bab62799b60b</sys_package><sys_policy/><sys_scope display_value="IPLookup">5b2e761f2fcd10109177bab62799b60b</sys_scope><sys_update_name>sys_rest_message_4170475f2fcd10109177bab62799b68a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-02 16:36:15</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>-1143604541</payload_hash>
+        <record_name>dummy rest</record_name>
+        <reverted_from/>
+        <source>db2e761f2fcd10109177bab62799b60d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 16:36:15</sys_created_on>
+        <sys_id>5111039f2fcd10109177bab62799b6d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17275e3fcaf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 16:36:15</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>d911039fafcd1010693b4b872b89ddd2</update_guid>
+        <update_guid_history>d911039fafcd1010693b4b872b89ddd2:-1143604541,47808b5fbecd101040f18499273412be:-1687781194</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 16:36:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>2f0710b9c4d54622abf138e94bff4a89</sys_id>
+        <sys_metadata>4170475f2fcd10109177bab62799b68a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dummy rest</sys_name>
+        <sys_package display_value="IPLookup" source="x_499906_iplookup">5b2e761f2fcd10109177bab62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">5b2e761f2fcd10109177bab62799b60b</sys_scope>
+        <sys_scope_delete display_value="">528cac7724e347e492f54a17dd4a4651</sys_scope_delete>
+        <sys_update_name>sys_rest_message_4170475f2fcd10109177bab62799b68a</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_4170475f2fcd10109177bab62799b68a">5111039f2fcd10109177bab62799b6d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 16:36:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
